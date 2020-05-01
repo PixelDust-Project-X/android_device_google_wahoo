@@ -178,3 +178,7 @@ BOARD_VNDK_VERSION := current
 
 # Generate an APEX image for experiment b/119800099.
 DEXPREOPT_GENERATE_APEX_IMAGE := true
+
+# Device specific data-ipa-cfg-mgr
+USE_DEVICE_SPECIFIC_DATA_IPA_CFG_MGR := true
+
